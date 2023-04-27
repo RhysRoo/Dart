@@ -62,3 +62,4 @@ void main() {
   double average = myMarks.reduce((total, myMark) => total + myMark)/myMarks.length;
   print(average);
 }
+
